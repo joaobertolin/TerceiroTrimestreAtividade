@@ -1,0 +1,19 @@
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+.coluna {
+	background-color: gray;
+	font-size: 39px;
+}
+.colunas {
+	background-color: lightgray;
+	font-size: 21px;
+}
+header, button {
+	text-align: center;
+	width: 100%;
+}
+#bolo {
+	 width: 300px;
+}
